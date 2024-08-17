@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076969A9-C29C-4BF7-8ECD-BF9F708AED66}|aplicacion\\aplicacion.csproj|c:\\users\\migue\\onedrive\\escritorio\\umg\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076969A9-C29C-4BF7-8ECD-BF9F708AED66}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076969A9-C29C-4BF7-8ECD-BF9F708AED66}|aplicacion\\aplicacion.csproj|C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{076969A9-C29C-4BF7-8ECD-BF9F708AED66}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076969A9-C29C-4BF7-8ECD-BF9F708AED66}|aplicacion\\aplicacion.csproj|C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\hardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{076969A9-C29C-4BF7-8ECD-BF9F708AED66}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\hardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076969A9-C29C-4BF7-8ECD-BF9F708AED66}|aplicacion\\aplicacion.csproj|C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{076969A9-C29C-4BF7-8ECD-BF9F708AED66}|aplicacion\\aplicacion.csproj|solutionrelative:aplicacion\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cpu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\cpu.cs",
+              "RelativeDocumentMoniker": "aplicacion\\cpu.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\cpu.cs [Design]",
+              "RelativeToolTip": "aplicacion\\cpu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T02:58:59.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hardware.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\Hardware.cs",
+              "RelativeDocumentMoniker": "aplicacion\\Hardware.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\Hardware.cs [Dise\u00F1o]",
+              "RelativeToolTip": "aplicacion\\Hardware.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-04T02:58:54.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sistema.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\sistema.cs",
+              "RelativeDocumentMoniker": "aplicacion\\sistema.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\sistema.cs [Dise\u00F1o]",
+              "RelativeToolTip": "aplicacion\\sistema.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-04T02:58:48.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpu.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\cpu.cs",
+              "RelativeDocumentMoniker": "aplicacion\\cpu.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\UMG\\sistemas op\\app\\sistemas\\aplicacion2\\aplicacion\\aplicacion\\cpu.cs",
+              "RelativeToolTip": "aplicacion\\cpu.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T02:57:31.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
